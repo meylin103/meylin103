@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Meylin 👋
 
-<!--
-**meylin103/meylin103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AWS Certified Cloud Practitioner with nearly four years of experience supporting account investigations, account recovery workflows, billing analysis, and high-priority escalations within AWS environments.
 
-Here are some ideas to get you started:
+My experience includes analyzing CloudTrail activity, investigating unauthorized usage patterns, supporting account recovery processes, and handling business-critical cases under strict SLA requirements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently expanding my technical skills through Full Stack Software Development training, working with React, Python, Flask, REST APIs, SQL, and Git.
+
+## Areas of Interest
+
+- Cloud Computing
+- Cloud Security
+- Technical Support
+- Account Investigations
+- Cost Optimization
+
+## Certifications
+
+- AWS Certified Cloud Practitioner
+- Cisco Cybersecurity Fundamentals
+- Scrum Foundation Professional Certificate
+- Generative AI Professional Certification
+
+## Connect With Me
+
+🔗 LinkedIn: linkedin.com/in/meylinfuentes
+
+🏅 Credly: credly.com/users/meilyn-fuentes
