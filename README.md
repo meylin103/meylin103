@@ -81,14 +81,11 @@ Focused on full stack application development using Python, Flask, React, SQL, R
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Most Used Languages
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=meylin103&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meylin103&layout=compact&hide_border=true&theme=transparent"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meylin103&layout=compact&hide_border=true&theme=transparent&hide=c%2B%2B,mako,dockerfile"/>
 </p>
 
 ---
@@ -97,13 +94,11 @@ Focused on full stack application development using Python, Flask, React, SQL, R
 
 <p align="left">
 
-💼 <b>LinkedIn</b><br>
-https://linkedin.com/in/meylinfuentes
+💼 **LinkedIn**  
+[linkedin.com/in/meylinfuentes](https://linkedin.com/in/meylinfuentes)
 
-<br>
-
-🏅 <b>Credly</b><br>
-https://www.credly.com/users/meylin-fuentes
+🏅 **Credly**  
+[credly.com/users/meylin-fuentes](https://www.credly.com/users/meylin-fuentes)
 
 </p>
 
