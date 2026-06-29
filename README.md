@@ -98,7 +98,7 @@ Focused on full stack application development using Python, Flask, React, SQL, R
 [linkedin.com/in/meylinfuentes](https://linkedin.com/in/meylinfuentes)
 
 🏅 **Credly**  
-[credly.com/users/meylin-fuentes](https://www.credly.com/users/meylin-fuentes)
+[credly.com/users/meylin-fuentes](https://www.credly.com/users/meilyn-fuentes)
 
 </p>
 
